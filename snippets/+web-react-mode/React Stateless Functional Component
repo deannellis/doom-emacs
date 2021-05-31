@@ -1,0 +1,9 @@
+# -*- mode: snippet -*-
+# name: React Stateless Functional Component 
+# key: sfc 
+# --
+const ${1: FunctionName} = () => {
+  return (  );
+}
+ 
+export default $1;
